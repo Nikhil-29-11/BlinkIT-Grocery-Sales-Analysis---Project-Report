@@ -5,3 +5,15 @@ The objective of the BlinkIT Grocery Sales Analysis project is to uncover valuab
 
 ## Dataset used
 -<a href="https://github.com/Nikhil-29-11/BlinkIT-Grocery-Sales-Analysis---Project-Report/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
+
+## Questions 
+- What was the total sales revenue reported in the analysis?
+- How many items were included in the dataset?
+- What was the average sales per item?
+- What was the average customer rating across all products?
+- Which product category had the highest total sales, and what was the amount?
+- What percentage of sales came from items with Regular fat content?
+- Which outlet size contributed the most to total sales?
+- Which tier (1, 2, or 3) had the highest sales, and how much was it?
+- What outlet type had the highest overall sales, and what was its contribution?
+- What insights can be drawn from the sales distribution across different outlet establishment years?
