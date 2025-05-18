@@ -62,4 +62,4 @@ Focused on:
 
 ## Dashboard
 
-![BlinkIT Grocery]()
+![BlinkIT Grocery](https://github.com/Nikhil-29-11/BlinkIT-Grocery-Sales-Analysis---Project-Report/blob/main/%7BD24B6122-88D2-4EBB-AC5D-E9702575D56C%7D.png)
