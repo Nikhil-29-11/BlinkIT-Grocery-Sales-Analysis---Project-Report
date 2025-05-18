@@ -17,3 +17,45 @@ The objective of the BlinkIT Grocery Sales Analysis project is to uncover valuab
 - Which tier (1, 2, or 3) had the highest sales, and how much was it?
 - What outlet type had the highest overall sales, and what was its contribution?
 - What insights can be drawn from the sales distribution across different outlet establishment years?
+
+## Process
+The BlinkIT Grocery Sales Analysis project followed a systematic process involving data handling, analysis, and visualization to derive business insights. The key steps included:
+
+1. Data Collection
+- Data was sourced from the BlinkIT Grocery Data file.
+- It included sales records, item categories, outlet details (size, type, location), fat content, ratings, and year of establishment.
+
+2. Data Cleaning & Preprocessing
+- Duplicates were removed to ensure data accuracy.
+- Missing values in sales and ratings were identified and handled appropriately.
+- Data types were corrected for numerical and categorical variables.
+- Categorical values such as item types and fat content were mapped for consistency.
+
+3. Data Transformation
+- Sales were aggregated by various dimensions like item type, outlet size, and fat content.
+- New metrics such as average sales per item and sales contribution by category were calculated.
+
+4. Data Analysis (Exploratory)
+Performed using Python and Excel for grouping, filtering, and statistical summarization.
+Focused on:
+- Total and average sales
+- Category-wise performance
+- Fat content trends
+- Outlet and location performance
+
+5. Data Visualization
+- Created interactive dashboards using Power BI.
+- Dashboards displayed:
+- KPIs: Total Sales, Avg Sales, Avg Rating, Number of Items
+- Sales breakdowns by item, outlet type, and location
+- Trend charts for outlet establishment
+
+6. Insight Generation
+- Identified top-performing categories and outlet types.
+- Noted customer preferences and geographical trends.
+- Highlighted sales contributors like Regular fat items and Tier 3 locations.
+
+7. Recommendations
+- Suggested optimizing inventory for high-selling categories.
+- Recommended expanding successful outlet formats in Tier 1 and 2 cities.
+- Advocated continued use of Power BI for monitoring performance.
