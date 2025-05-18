@@ -59,3 +59,7 @@ Focused on:
 - Suggested optimizing inventory for high-selling categories.
 - Recommended expanding successful outlet formats in Tier 1 and 2 cities.
 - Advocated continued use of Power BI for monitoring performance.
+
+## Dashboard
+
+![BlinkIT Grocery]()
