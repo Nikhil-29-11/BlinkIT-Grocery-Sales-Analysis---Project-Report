@@ -22,7 +22,7 @@ The objective of the BlinkIT Grocery Sales Analysis project is to uncover valuab
 The BlinkIT Grocery Sales Analysis project followed a systematic process involving data handling, analysis, and visualization to derive business insights. The key steps included:
 
 1. Data Collection
-- Data was sourced from the BlinkIT Grocery Data file.
+- Data was sourced from the BlinkIT Grocery Data file -<a href="https://github.com/Nikhil-29-11/BlinkIT-Grocery-Sales-Analysis---Project-Report/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
 - It included sales records, item categories, outlet details (size, type, location), fat content, ratings, and year of establishment.
 
 2. Data Cleaning & Preprocessing
